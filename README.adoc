@@ -7,8 +7,11 @@ Stevan Vlajic
 :sectnums:    // Nummerierung der Überschriften / section numbering
 :toc: left
 :experimental:
+
+== Editor View
+image:./img/cotton-candy-theme.png[]
 			
-== Editor-View
+== Custom Code 
 image:./img/emacs-editor-view.png[]
 
 == How to set up 
