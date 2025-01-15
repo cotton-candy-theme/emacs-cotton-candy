@@ -17,7 +17,7 @@ image:./img/emacs-editor-view.png[]
 == How to set up 
 * Get the Emacs text-editor
 ** Link: https://www.gnu.org/savannah-checkouts/gnu/emacs/emacs.html
-** Open up the editor
+** Open up the editorfdsffadsfdasfadsfadsfad
 ** `ALT + X`
 *** `package-install-file`
 *** Install the theme: `{path}/emacs-cotton-candy.el`
